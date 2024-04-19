@@ -1,4 +1,4 @@
-# One-Two API Documentation
+# API Documentation
 
 This API is built using Flask, a lightweight web framework in Python, and PostgreSQL, a powerful open-source relational database management system. It provides endpoints for managing products, including creating, updating, deleting, and retrieving product information.
 
